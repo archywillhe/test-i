@@ -1,9 +1,9 @@
 _id: req_9a1e64fcd03e4c338b660f03ad21e307
 type: Request
 parentId: wrk_a13d28fb08e3465d82bfca7bb255705a
-modified: 1696446147344
+modified: 1698343632786
 created: 1696446147344
-url: ""
+url: test
 name: New Request
 description: ""
 method: GET
