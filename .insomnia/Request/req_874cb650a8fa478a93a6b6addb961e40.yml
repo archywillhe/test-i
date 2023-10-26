@@ -1,9 +1,9 @@
-_id: req_9a1e64fcd03e4c338b660f03ad21e307
+_id: req_874cb650a8fa478a93a6b6addb961e40
 type: Request
-parentId: wrk_a13d28fb08e3465d82bfca7bb255705a
-modified: 1698343632786
-created: 1696446147344
-url: testo
+parentId: wrk_dde4a577382e42bcac00748fa5d8b99f
+modified: 1697449808918
+created: 1696808857139
+url: faasdasd:{% base64 'encode', 'normal', '' %}
 name: New Request
 description: ""
 method: GET
@@ -13,7 +13,7 @@ headers:
   - name: User-Agent
     value: insomnia/0.1.3
 authentication: {}
-metaSortKey: -1696446147345
+metaSortKey: -1696808857138
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
