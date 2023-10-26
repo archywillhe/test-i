@@ -3,7 +3,7 @@ type: Request
 parentId: wrk_a13d28fb08e3465d82bfca7bb255705a
 modified: 1698343632786
 created: 1696446147344
-url: test
+url: testo
 name: New Request
 description: ""
 method: GET
